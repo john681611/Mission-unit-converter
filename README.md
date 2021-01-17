@@ -10,7 +10,7 @@ its really just a find and replace...
 
 eg
 
-        python convert.py ../TBC-Operation_Dinosaur_V1.Tanoa/ conversions/projOpf.json
+        python convert.py ../TBC-Operation_Dinosaur_V1.Tanoa/ conversions/Replace_Project_Opfor.json
 
 Original mission will be backed up as `mission-backup.sqm` and the original `mission.sqm` will be overwritten.
 if trying to remove a mod you may have to open up the mission in the editor or text editor to search for remaining units,custom-kits, etc
