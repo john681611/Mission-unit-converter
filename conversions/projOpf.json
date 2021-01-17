@@ -1,0 +1,19 @@
+{
+    "LOP_IRA_Infantry_IED": "rhsgref_ins_saboteur",
+    "LOP_IRA_Infantry_TL": "rhsgref_ins_rifleman_akm",
+    "LOP_IRA_Infantry_Rifleman_PM63": "rhsgref_ins_rifleman",
+    "LOP_IRA_Infantry_Rifleman_lite": "rhsgref_ins_rifleman_aksu",
+    "LOP_IRA_Infantry_Rifleman": "rhsgref_ins_rifleman",
+    "LOP_IRA_Infantry_GL": "rhsgref_ins_grenadier",
+    "LOP_IRA_Infantry_Corpsman": "rhsgref_ins_medic",
+    "LOP_IRA_Infantry_AR_Asst": "rhsgref_ins_spotter",
+    "LOP_IRA_Infantry_AR": "rhsgref_ins_machinegunner",
+    "LOP_IRA_Infantry_AT": "rhsgref_ins_rifleman_RPG26",
+    "LOP_IRA_Infantry_Marksman": "rhsgref_ins_sniper",
+    "LOP_IRA_Infantry_Rifleman_vz58": "rhsgref_ins_militiaman_mosin",
+    "LOP_IRA_Infantry_Driver": "rhsgref_ins_crew",
+    "LOP_IRA_Infantry_SL": "rhsgref_ins_squadleader",
+    "LOP_IRA_Landrover_M2": "UK3CB_O_G_LandRover_M2",
+    "LOP_IRA_Landrover": "UK3CB_O_G_LandRover_Closed",
+    "LOP_IRA_Nissan_PKM": "UK3CB_O_G_Hilux_Pkm"
+}
