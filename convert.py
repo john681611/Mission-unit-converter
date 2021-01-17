@@ -5,6 +5,7 @@ with open (sys.argv[1] + "mission.sqm", "r") as myfile:
     mission=myfile.read()
 f = open(sys.argv[1] + "mission-backup.sqm", "w")
 f.write(mission)
+f.close()
 
 with open(sys.argv[2]) as json_file:
     conversionData = json.load(json_file)
